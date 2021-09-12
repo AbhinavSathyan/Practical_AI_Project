@@ -1,0 +1,11 @@
+Werkzeug
+Flask
+numpy
+Keras
+pillow
+h5py
+gunicorn
+MarkupSafe
+itsdangerous
+Jinja2
+tensorflow-cpu
