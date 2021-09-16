@@ -8,4 +8,5 @@ gunicorn
 MarkupSafe
 itsdangerous
 Jinja2
+uuid
 tensorflow-cpu
