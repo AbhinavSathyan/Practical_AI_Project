@@ -1,12 +1,5 @@
-Werkzeug
-Flask
-numpy
-Keras
-pillow
-h5py
+Flask==1.1.2
+tensorflow_cpu==2.6.0
+Pillow==8.3.2
 gunicorn
-MarkupSafe
-itsdangerous
-Jinja2
-uuid
-tensorflow-cpu
+
